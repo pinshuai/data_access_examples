@@ -327,3 +327,7 @@ NOAA development projects, please see the
 - `git add -p` adds changes one-by-one through your repository.
 - `git rebase -i` allows for a combination of rebasing and cleaning up the commits in your history at the same time. USE WITH CARE. This rewrites your history so it shouldn't be used on any branch where someone else is trying to merge things with you.
 - `git commit --amend` adjusts the last commit to fix a little bug, a commit message typo, etc. This also rewrites history, so it is better not to use it if someone has already started to work from your messy commit.
+
+
+## new commands
+
